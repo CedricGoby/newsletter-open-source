@@ -1,4 +1,4 @@
-# Revue de presse "open source" du mois de décembre 2018
+# Revue de presse "open source"
 
 Open source, open data, open science, open hardware... Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le grand public sur les bénéfices de l'open source dans de nombreux domaines.  
 
