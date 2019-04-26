@@ -28,7 +28,7 @@ La revue en accès libre, Quantitative Science Studies (QSS), est créée en jan
 https://www.ouvrirlascience.fr/des-nouvelles-revues-pour-plus-dacces-ouvert/
 Source : Ouvrir la Science
 
-## ECONOMIE DU LIBRE
+## ÉCONOMIE DU LIBRE
 ### L’Open Source comme levier de souveraineté numérique - Table ronde - POSS 2018
 On va parler maintenant de souveraineté, c’est un mot qui est très employé aujourd’hui, à l’international et même en France, on va le voir avec nos invités.
 https://www.april.org/l-open-source-comme-levier-de-souverainete-numerique-table-ronde-poss-2018
