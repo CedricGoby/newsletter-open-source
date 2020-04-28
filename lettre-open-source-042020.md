@@ -1,4 +1,4 @@
-# Revue de presse "Open source" du mois de avril 2020
+# Revue de presse "Open source" du mois de mars 2020
 
 Open source, open data, open science, open hardware... Cette revue de presse généraliste et mensuelle a pour but de sensibiliser le grand public sur les bénéfices de l'open source dans de nombreux domaines.  
 
@@ -69,8 +69,6 @@ Source : LinuxFr
 ### Finos rejoint la fondation Linux pour pousser l’open source dans les services financiers
 La Fintech Open Source Foundation (Finos), qui compte une trentaine de membres et 300 contributeurs, intègre la fondation Linux. Elle vise entre autres à accélérer l’adoption de logiciels open source dans le secteur financier.  
 https://www.zdnet.fr/blogs/l-esprit-libre/finos-rejoint-la-fondation-linux-pour-pousser-l-open-source-dans-les-services-financiers-39902859.htm  
-
-## PODCASTS
 
 ## TUTOS
 ### Ubuntu 18.04 & 19.04 – Mise à jour vers Ubuntu 20.04 LTS
