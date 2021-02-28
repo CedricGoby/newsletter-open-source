@@ -81,11 +81,6 @@ La suite OnlyOffice Docs 6.1 en version communautaire est accessible depuis quel
 https://www.toolinux.com/%3Flinux-onlyoffice-docs-est-disponible-au-format-snap  
 Source : TOOLinux
 
-### Nextcloud Hub 21 est arrivé avec des performances dix fois supérieures, plus de rapidité et de nouveaux outils de collaboration
-class="alert alert-info">Vous êtes nouveau sur Developpez.com ? Créez votre compte ou connectez-vous afin de pouvoir participer !  
-https://cloud-computing.developpez.com/actu/312883/Nextcloud-Hub-21-est-arrive-avec-des-performances-dix-fois-superieures-plus-de-rapidite-et-de-nouveaux-outils-de-collaboration/  
-Source : Developpez
-
 ### Darktable 3.4.1 : mise à jour du logiciel de traitement d'image
 Darktable est un logiciel open source de traitement photographique qui permet de cataloguer ses photographies numériques et d’y appliquer des corrections et effets. Il autorise également le contrôle en temps réel d’appareil photographique numérique (APN) connecté par un câble à un ordinateur.  
 https://www.toolinux.com/%3FDarktable-3-0-nouveautes-mise-a-jour-telechargement  
